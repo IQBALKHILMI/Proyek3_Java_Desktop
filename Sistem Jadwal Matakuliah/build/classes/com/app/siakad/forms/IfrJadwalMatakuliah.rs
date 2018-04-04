@@ -1,0 +1,10 @@
+com.app.siakad.entities.Forms.IfrJadwalMatakuliah
+com.app.siakad.Forms.IfrJadwalMatakuliah$3
+com.app.siakad.Forms.IfrJadwalMatakuliah$4
+com.app.siakad.Forms.IfrJadwalMatakuliah
+com.app.siakad.entities.Forms.IfrJadwalMatakuliah$3
+com.app.siakad.entities.Forms.IfrJadwalMatakuliah$2
+com.app.siakad.Forms.IfrJadwalMatakuliah$1
+com.app.siakad.entities.Forms.IfrJadwalMatakuliah$4
+com.app.siakad.Forms.IfrJadwalMatakuliah$2
+com.app.siakad.entities.Forms.IfrJadwalMatakuliah$1
